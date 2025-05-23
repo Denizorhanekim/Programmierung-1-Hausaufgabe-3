@@ -1,0 +1,11 @@
+# Gradle build system
+.gradle/
+build/
+
+# IntelliJ IDEA project config
+.idea/
+*.iml
+
+# OS & UI junk files
+.DS_Store
+Thumbs.db

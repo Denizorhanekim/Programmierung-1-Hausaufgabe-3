@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ArrayUebungenTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-05-23T20:08:18" hostname="OCTOPUS" time="0.019">
+  <properties/>
+  <testcase name="filter()" classname="ArrayUebungenTest" time="0.012"/>
+  <testcase name="getSum()" classname="ArrayUebungenTest" time="0.002"/>
+  <testcase name="getSum_2d()" classname="ArrayUebungenTest" time="0.001"/>
+  <testcase name="concatenate()" classname="ArrayUebungenTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
